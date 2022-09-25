@@ -1,3 +1,3 @@
 cso_data.egg-info/
 dist/
-**/__pycache__
+cso_data/__pycache__
