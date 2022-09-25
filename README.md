@@ -3,7 +3,7 @@
 ## Install
 Simply use the following pip command
 ~~~
-pip install cso-data==0.1
+pip install cso-data
 ~~~
 
 ## How to
