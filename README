@@ -1,6 +1,0 @@
-## How to
-* Simply import the CSO_df class and call its method get_cso_table. 
-This method takes one input which is a table code which can be found on https://data.cso.ie/ . 
-This returns a dataframe of the table of the data you requestes
-
-See cso_example.ipynb
