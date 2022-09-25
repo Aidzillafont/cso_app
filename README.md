@@ -10,6 +10,6 @@ from cso_data import CSO_df
 df = CSO_df().get_cso_table('HPA02')
 ~~~
 This method takes one input which is a table code which can be found on https://data.cso.ie/ . 
-This returns a dataframe of the table of the data you requestes
+This returns a dataframe of the table of the data you request
 
 See cso_example.ipynb
