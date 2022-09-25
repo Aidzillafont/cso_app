@@ -1,5 +1,11 @@
 # cso_app
 
+## Install
+Simply use the following pip command
+~~~
+pip install cso-data==0.1
+~~~
+
 ## How to
 * Simply import the CSO_df class and call its method get_cso_table. 
 ~~~
